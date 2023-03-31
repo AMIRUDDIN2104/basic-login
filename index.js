@@ -7,9 +7,9 @@ let dbUsers = [
     },
     {
         username: "zikry",
-        password: "idk",
-        name: "zikriruddin",
-        email: "zikriruddin@utem.edu.my"
+        password: "123",
+        name: "zikey",
+        email: "zikryruddin@utem.edu.my"
     },
 ]
 
